@@ -2,9 +2,9 @@
 Put simply these scripts monitor Elasticsearch cluster status and reports the results to Zabbix.
 
 ## Requirements
-Elasticsearch 2.x or higher - https://www.elastic.co/products/elasticsearch
-Powershell 5.1 or higher (Windows scripts only) - https://www.microsoft.com/en-us/download/details.aspx?id=54616
-Zabbix 3.x or higher - https://www.zabbix.com/
+- Elasticsearch 2.x or higher - https://www.elastic.co/products/elasticsearch
+- Powershell 5.1 or higher (Windows scripts only) - https://www.microsoft.com/en-us/download/details.aspx?id=54616
+- Zabbix 3.x or higher - https://www.zabbix.com/
 
 ## Configuration
 ### Windows
